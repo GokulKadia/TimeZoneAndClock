@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\bin\Debug\TimeZoneAndClock.exe.config
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\bin\Debug\TimeZoneAndClock.exe
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\bin\Debug\TimeZoneAndClock.pdb
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.exe
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.pdb
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\bin\Debug\Libraries.dll
+C:\Users\Admin\Desktop\BIOS Setting\TimeZoneAndClock\TimeZoneAndClock\obj\Debug\TimeZoneAndClock.csproj.CopyComplete
